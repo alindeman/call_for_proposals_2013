@@ -1,33 +1,27 @@
-# Ancient City Ruby 2013 Call for Proposals
+# Advanced Ruby: Deconstructing a mock object library
 
-So, you are interested in giving a talk at [Ancient City Ruby 2013](http://ancientcityruby.com)?
+This talk is not about testing. Nor is it really about mocking. However,
+analyzing a mock object library is a great way to showcase advanced Ruby
+topics.
 
-What better way to submit a talk proposal than via GitHub!
+Have you ever wondered exactly how a mock object library does what it does? You
+*can* understand it!
 
-## Here is what to do
+This talk uses a simplified mock object library as the basis for delving into
+topics such as metaprogramming and the Ruby object model.
 
-1. Fork this repository
-2. Copy the sample folder `example/` to `your_name-talk_name`
-3. Edit the `README.md` file and type a good description about your talk
-   and about yourself
-4. Replace the dummy image with a picture of yourself that we
-   can use to list you on the speakers page when you are accepted.  (NOTE: We prefer a high resolution photo. There is no specific size requirement.  We recommend that you avoid using something low-res, such as 50px x 50px avatar.)
-5. Create a pull request of your fork. Consider using the title of your
-   talk as the pull request subject, as this makes the list of pull requests
-   enticing to read.
+The goal is to increase the knowledge of these topics in the Ruby community.
+With this know-how, you will be better suited to build from and contribute to
+common Ruby tools that use them.
 
-### Notes
+## Andy Lindeman
 
-Please submit a separate pull request for each proposal, as we may want to
-accept only one of the talks.
+Andy Lindeman works at Big Nerd Ranch (formerly Highgroove Studios). He is a
+software developer focusing on web applications with an ever-increasing focus
+on mobile. He is a member of the RSpec core team, and lead developer of
+rspec-rails.
 
-You can add any type of assets to support your proposal inside your folder.
-When a talk gets accepted we will merge it into master.
+![Andy Lindeman's picture](http://en.gravatar.com/userimage/3482296/945164ed98c9ab5f667f58594c4bc964.jpg?size=300)
 
-Each talk should be 30 minutes in length and will be followed by a 30 minute break.
-Proposals will be accepted until December 1st, 2012.
-
-Credit: Kudos to
-[RubyConf Australia 2013](https://github.com/rubyaustralia/rubyconfau-2013-cfp) and
-[EuRuKo 2012](https://github.com/euruko2012/call-for-proposals) and
-[Sapporo RubyKaigi 2012](https://github.com/sprk2012/sprk2012-cfp) for the idea.
+- [andylindeman.com](http://andylindeman.com)
+- [@alindeman](https://twitter.com/alindeman)
